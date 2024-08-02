@@ -1,0 +1,26 @@
+node modules-
+asynchronus javascript 
+client side what the user sees
+frontend 
+server side/backend logic
+types of javascript part
+variable- we use to store data/ container 
+how to declare variables: 
+let,const and var.
+data types : string texttual data.
+number/integer type 
+boolean true/false
+undefined : variable which is declared but not assigned
+arrays
+functions
+objects
+float
+operands
+loose quality operator (==)
+loose inequality (!=) not equal
+types of data types
+implicit(automatically by javascript) type coersion.
+explicit done by me as developer.
+strict equality(===)
+strict inequality (!==)
+conditions using if and else
